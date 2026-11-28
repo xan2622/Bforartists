@@ -834,6 +834,7 @@ class VIEW3D_PT_edge_tab_edge(ToolsystemPanel):
         entries = [
             SetOperatorContext('INVOKE_REGION_WIN'),
             OperatorEntry("mesh.bridge_edge_loops", icon='BRIDGE_EDGELOOPS'),
+            OperatorEntry("mesh.quad_bridge", icon='BRIDGE_EDGELOOPS'),  # BFA - Quad Bridge, new tool
             OperatorEntry("mesh.screw", icon='MOD_SCREW'),
             Separator,
             OperatorEntry("mesh.subdivide", icon='SUBDIVIDE_EDGES'),

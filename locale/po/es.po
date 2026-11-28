@@ -182289,3 +182289,59 @@ msgstr "Fotogramas a partir de los que se calcula el rango"
 # BFA - machine translated, please review
 msgid "Bake Clipping"
 msgstr "Capturar recorte"
+
+# BFA - machine translated, please review
+msgid "Quad Bridge"
+msgstr "Puente de quads"
+
+# BFA - machine translated, please review
+msgid "Connect two chains of selected edges with a different number of segments using quads"
+msgstr "Conecta dos cadenas de aristas seleccionadas con un número distinto de segmentos usando cuadriláteros"
+
+# BFA - machine translated, please review
+msgid "Edge flow used when bridging one edge to two edges"
+msgstr "Flujo de aristas usado al unir una arista con dos aristas"
+
+# BFA - machine translated, please review
+msgid "Create a diamond in the middle of the bridge"
+msgstr "Crea un rombo en medio del puente"
+
+# BFA - machine translated, please review
+msgid "Left Flow"
+msgstr "Flujo a la izquierda"
+
+# BFA - machine translated, please review
+msgid "Edge flow leaning to the left"
+msgstr "Flujo de aristas inclinado hacia la izquierda"
+
+# BFA - machine translated, please review
+msgid "Right Flow"
+msgstr "Flujo a la derecha"
+
+# BFA - machine translated, please review
+msgid "Edge flow leaning to the right"
+msgstr "Flujo de aristas inclinado hacia la derecha"
+
+# BFA - machine translated, please review
+msgid "Gap Method"
+msgstr "Método de diferencia"
+
+# BFA - machine translated, please review
+msgid "How the difference of two edges between the chains is resolved"
+msgstr "Cómo se resuelve la diferencia de dos aristas entre las cadenas"
+
+# BFA - machine translated, please review
+msgid "Outer Loop"
+msgstr "Bucle exterior"
+
+# BFA - machine translated, please review
+msgid "Add an extra loop between the two chains"
+msgstr "Añade un bucle adicional entre las dos cadenas"
+
+# BFA - machine translated, please review
+msgid "Inner Loop"
+msgstr "Bucle interior"
+
+# BFA - machine translated, please review
+msgid "Keep the sides straight and resolve the difference in the middle"
+msgstr "Mantiene rectos los lados y resuelve la diferencia en el centro"

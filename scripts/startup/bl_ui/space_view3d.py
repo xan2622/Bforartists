@@ -6699,6 +6699,7 @@ class VIEW3D_MT_edit_mesh_context_menu(Menu):
                 col.operator("mesh.edge_face_add", text="Make Edge/Face", icon="MAKE_EDGEFACE")
             if selected_edges_len >= 2:
                 col.operator("mesh.bridge_edge_loops", icon="BRIDGE_EDGELOOPS")
+                col.operator("mesh.quad_bridge", icon="BRIDGE_EDGELOOPS")  # BFA - Quad Bridge, new tool
             if selected_edges_len >= 2:
                 col.operator("mesh.fill", icon="FILL")
 
@@ -7005,6 +7006,7 @@ class VIEW3D_MT_edit_mesh_edges(Menu):
         layout.menu("VIEW3D_MT_edit_mesh_edges_legacy")  # bfa menu
 
         layout.operator("mesh.bridge_edge_loops", icon="BRIDGE_EDGELOOPS")
+        layout.operator("mesh.quad_bridge", icon="BRIDGE_EDGELOOPS")  # BFA - Quad Bridge, new tool
         layout.operator("mesh.screw", icon="MOD_SCREW")
 
         layout.separator()

@@ -84403,3 +84403,59 @@ msgstr "Precalcolo (bake) del ritaglio"
 msgctxt "Operator"
 msgid "Adjust Beam Shape Blend"
 msgstr "Regola sfumatura della forma del fascio"
+
+# BFA - machine translated, please review
+msgid "Quad Bridge"
+msgstr "Ponte di quad"
+
+# BFA - machine translated, please review
+msgid "Connect two chains of selected edges with a different number of segments using quads"
+msgstr "Collega due catene di spigoli selezionati con un numero diverso di segmenti usando quadrilateri"
+
+# BFA - machine translated, please review
+msgid "Edge flow used when bridging one edge to two edges"
+msgstr "Flusso degli spigoli usato per collegare uno spigolo a due spigoli"
+
+# BFA - machine translated, please review
+msgid "Create a diamond in the middle of the bridge"
+msgstr "Crea un rombo al centro del ponte"
+
+# BFA - machine translated, please review
+msgid "Left Flow"
+msgstr "Flusso a sinistra"
+
+# BFA - machine translated, please review
+msgid "Edge flow leaning to the left"
+msgstr "Flusso degli spigoli inclinato verso sinistra"
+
+# BFA - machine translated, please review
+msgid "Right Flow"
+msgstr "Flusso a destra"
+
+# BFA - machine translated, please review
+msgid "Edge flow leaning to the right"
+msgstr "Flusso degli spigoli inclinato verso destra"
+
+# BFA - machine translated, please review
+msgid "Gap Method"
+msgstr "Metodo di differenza"
+
+# BFA - machine translated, please review
+msgid "How the difference of two edges between the chains is resolved"
+msgstr "Come viene risolta la differenza di due spigoli tra le catene"
+
+# BFA - machine translated, please review
+msgid "Outer Loop"
+msgstr "Loop esterno"
+
+# BFA - machine translated, please review
+msgid "Add an extra loop between the two chains"
+msgstr "Aggiunge un loop extra tra le due catene"
+
+# BFA - machine translated, please review
+msgid "Inner Loop"
+msgstr "Loop interno"
+
+# BFA - machine translated, please review
+msgid "Keep the sides straight and resolve the difference in the middle"
+msgstr "Mantiene diritti i lati e risolve la differenza al centro"

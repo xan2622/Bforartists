@@ -182391,3 +182391,59 @@ msgstr "Кадры, по которым вычисляется диапазон"
 # BFA - machine translated, please review
 msgid "Bake Clipping"
 msgstr "Запекание отсечки"
+
+# BFA - machine translated, please review
+msgid "Quad Bridge"
+msgstr "Квад-мост"
+
+# BFA - machine translated, please review
+msgid "Connect two chains of selected edges with a different number of segments using quads"
+msgstr "Соединяет две цепочки выбранных рёбер с разным числом сегментов с помощью четырёхугольников"
+
+# BFA - machine translated, please review
+msgid "Edge flow used when bridging one edge to two edges"
+msgstr "Поток рёбер при соединении одного ребра с двумя рёбрами"
+
+# BFA - machine translated, please review
+msgid "Create a diamond in the middle of the bridge"
+msgstr "Создаёт ромб в середине моста"
+
+# BFA - machine translated, please review
+msgid "Left Flow"
+msgstr "Поток влево"
+
+# BFA - machine translated, please review
+msgid "Edge flow leaning to the left"
+msgstr "Поток рёбер с наклоном влево"
+
+# BFA - machine translated, please review
+msgid "Right Flow"
+msgstr "Поток вправо"
+
+# BFA - machine translated, please review
+msgid "Edge flow leaning to the right"
+msgstr "Поток рёбер с наклоном вправо"
+
+# BFA - machine translated, please review
+msgid "Gap Method"
+msgstr "Метод разницы"
+
+# BFA - machine translated, please review
+msgid "How the difference of two edges between the chains is resolved"
+msgstr "Как разрешается разница в два ребра между цепочками"
+
+# BFA - machine translated, please review
+msgid "Outer Loop"
+msgstr "Внешний цикл"
+
+# BFA - machine translated, please review
+msgid "Add an extra loop between the two chains"
+msgstr "Добавляет дополнительный цикл между двумя цепочками"
+
+# BFA - machine translated, please review
+msgid "Inner Loop"
+msgstr "Внутренний цикл"
+
+# BFA - machine translated, please review
+msgid "Keep the sides straight and resolve the difference in the middle"
+msgstr "Сохраняет стороны прямыми и разрешает разницу в середине"

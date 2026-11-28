@@ -264,6 +264,10 @@ void MESH_OT_shortest_path_select(wmOperatorType *ot);
 /* *** editmesh_space_evenly.cc *** */
 void MESH_OT_space_edge_loops_evenly(wmOperatorType *ot);
 
+/* *** editmesh_quad_bridge.cc *** */
+/* bfa - Quad Bridge: connect two edge chains having a different number of segments. */
+void MESH_OT_quad_bridge(wmOperatorType *ot);
+
 extern EnumPropertyItem *corner_type_items;
 
 /* *** editmesh_tools.cc *** */

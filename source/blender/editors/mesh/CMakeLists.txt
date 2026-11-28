@@ -35,6 +35,7 @@ set(SRC
   editmesh_loopcut.cc
   editmesh_path.cc
   editmesh_polybuild.cc
+  editmesh_quad_bridge.cc
   editmesh_preselect_edgering.cc
   editmesh_preselect_elem.cc
   editmesh_relax_edge_loops.cc

@@ -184452,3 +184452,59 @@ msgstr "範囲の計算に使用するフレーム"
 # BFA - machine translated, please review
 msgid "Bake Clipping"
 msgstr "クリッピングをベイク"
+
+# BFA - machine translated, please review
+msgid "Quad Bridge"
+msgstr "クアッドブリッジ"
+
+# BFA - machine translated, please review
+msgid "Connect two chains of selected edges with a different number of segments using quads"
+msgstr "セグメント数の異なる選択した2本の辺の連なりを四角形でつなぎます"
+
+# BFA - machine translated, please review
+msgid "Edge flow used when bridging one edge to two edges"
+msgstr "1本の辺を2本の辺につなぐときに使うエッジフロー"
+
+# BFA - machine translated, please review
+msgid "Create a diamond in the middle of the bridge"
+msgstr "ブリッジの中央にダイヤモンドを作成します"
+
+# BFA - machine translated, please review
+msgid "Left Flow"
+msgstr "左フロー"
+
+# BFA - machine translated, please review
+msgid "Edge flow leaning to the left"
+msgstr "左に傾いたエッジフロー"
+
+# BFA - machine translated, please review
+msgid "Right Flow"
+msgstr "右フロー"
+
+# BFA - machine translated, please review
+msgid "Edge flow leaning to the right"
+msgstr "右に傾いたエッジフロー"
+
+# BFA - machine translated, please review
+msgid "Gap Method"
+msgstr "差の解決方法"
+
+# BFA - machine translated, please review
+msgid "How the difference of two edges between the chains is resolved"
+msgstr "連なりの間の2辺の差をどのように解決するか"
+
+# BFA - machine translated, please review
+msgid "Outer Loop"
+msgstr "外側ループ"
+
+# BFA - machine translated, please review
+msgid "Add an extra loop between the two chains"
+msgstr "2本の連なりの間にループを1つ追加します"
+
+# BFA - machine translated, please review
+msgid "Inner Loop"
+msgstr "内側ループ"
+
+# BFA - machine translated, please review
+msgid "Keep the sides straight and resolve the difference in the middle"
+msgstr "両端を真っ直ぐに保ち、中央で差を解決します"

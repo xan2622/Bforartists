@@ -167,6 +167,7 @@ void ED_operatortypes_mesh()
   WM_operatortype_append(MESH_OT_bevel);
 
   WM_operatortype_append(MESH_OT_bridge_edge_loops);
+  WM_operatortype_append(MESH_OT_quad_bridge); /* bfa - Quad Bridge */
   WM_operatortype_append(MESH_OT_inset);
   WM_operatortype_append(MESH_OT_offset_edge_loops);
   WM_operatortype_append(MESH_OT_intersect);

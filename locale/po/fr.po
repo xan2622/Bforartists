@@ -182131,3 +182131,59 @@ msgstr "Images à partir desquelles la plage est calculée"
 # BFA - machine translated, please review
 msgid "Bake Clipping"
 msgstr "Précalculer le découpage"
+
+# BFA - machine translated, please review
+msgid "Quad Bridge"
+msgstr "Pont en quads"
+
+# BFA - machine translated, please review
+msgid "Connect two chains of selected edges with a different number of segments using quads"
+msgstr "Relie deux chaînes d'arêtes sélectionnées ayant un nombre de segments différent à l'aide de quads"
+
+# BFA - machine translated, please review
+msgid "Edge flow used when bridging one edge to two edges"
+msgstr "Flux d'arêtes utilisé pour relier une arête à deux arêtes"
+
+# BFA - machine translated, please review
+msgid "Create a diamond in the middle of the bridge"
+msgstr "Crée un losange au milieu du pont"
+
+# BFA - machine translated, please review
+msgid "Left Flow"
+msgstr "Flux à gauche"
+
+# BFA - machine translated, please review
+msgid "Edge flow leaning to the left"
+msgstr "Flux d'arêtes penchant vers la gauche"
+
+# BFA - machine translated, please review
+msgid "Right Flow"
+msgstr "Flux à droite"
+
+# BFA - machine translated, please review
+msgid "Edge flow leaning to the right"
+msgstr "Flux d'arêtes penchant vers la droite"
+
+# BFA - machine translated, please review
+msgid "Gap Method"
+msgstr "Méthode d'écart"
+
+# BFA - machine translated, please review
+msgid "How the difference of two edges between the chains is resolved"
+msgstr "Comment la différence de deux arêtes entre les chaînes est résolue"
+
+# BFA - machine translated, please review
+msgid "Outer Loop"
+msgstr "Boucle extérieure"
+
+# BFA - machine translated, please review
+msgid "Add an extra loop between the two chains"
+msgstr "Ajoute une boucle supplémentaire entre les deux chaînes"
+
+# BFA - machine translated, please review
+msgid "Inner Loop"
+msgstr "Boucle intérieure"
+
+# BFA - machine translated, please review
+msgid "Keep the sides straight and resolve the difference in the middle"
+msgstr "Garde les côtés droits et résout la différence au milieu"

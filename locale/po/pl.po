@@ -182289,3 +182289,59 @@ msgstr "Klatki, z których obliczany jest zakres"
 # BFA - machine translated, please review
 msgid "Bake Clipping"
 msgstr "Wypiecz obcinanie"
+
+# BFA - machine translated, please review
+msgid "Quad Bridge"
+msgstr "Mostek quadów"
+
+# BFA - machine translated, please review
+msgid "Connect two chains of selected edges with a different number of segments using quads"
+msgstr "Łączy dwa łańcuchy zaznaczonych krawędzi o różnej liczbie segmentów za pomocą czworokątów"
+
+# BFA - machine translated, please review
+msgid "Edge flow used when bridging one edge to two edges"
+msgstr "Przepływ krawędzi używany przy łączeniu jednej krawędzi z dwiema"
+
+# BFA - machine translated, please review
+msgid "Create a diamond in the middle of the bridge"
+msgstr "Tworzy romb pośrodku mostka"
+
+# BFA - machine translated, please review
+msgid "Left Flow"
+msgstr "Przepływ w lewo"
+
+# BFA - machine translated, please review
+msgid "Edge flow leaning to the left"
+msgstr "Przepływ krawędzi pochylony w lewo"
+
+# BFA - machine translated, please review
+msgid "Right Flow"
+msgstr "Przepływ w prawo"
+
+# BFA - machine translated, please review
+msgid "Edge flow leaning to the right"
+msgstr "Przepływ krawędzi pochylony w prawo"
+
+# BFA - machine translated, please review
+msgid "Gap Method"
+msgstr "Metoda różnicy"
+
+# BFA - machine translated, please review
+msgid "How the difference of two edges between the chains is resolved"
+msgstr "Sposób rozwiązania różnicy dwóch krawędzi między łańcuchami"
+
+# BFA - machine translated, please review
+msgid "Outer Loop"
+msgstr "Pętla zewnętrzna"
+
+# BFA - machine translated, please review
+msgid "Add an extra loop between the two chains"
+msgstr "Dodaje dodatkową pętlę między dwoma łańcuchami"
+
+# BFA - machine translated, please review
+msgid "Inner Loop"
+msgstr "Pętla wewnętrzna"
+
+# BFA - machine translated, please review
+msgid "Keep the sides straight and resolve the difference in the middle"
+msgstr "Zachowuje proste boki i rozwiązuje różnicę pośrodku"

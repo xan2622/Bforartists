@@ -735,6 +735,7 @@ class TOOLBAR_MT_meshedit(Menu):
                         row = layout.row(align=True)
                         row.operator("mesh.edge_split", text="", icon="SPLITEDGE")
                         row.operator("mesh.bridge_edge_loops", text="", icon="BRIDGE_EDGELOOPS")
+                        row.operator("mesh.quad_bridge", text="", icon="BRIDGE_EDGELOOPS")  # BFA - Quad Bridge, new tool
 
                     ## ------------------ Faces
 

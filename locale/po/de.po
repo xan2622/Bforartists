@@ -73459,3 +73459,63 @@ msgstr "Clipping backen"
 msgctxt "Operator"
 msgid "Adjust Beam Shape Blend"
 msgstr "Überblendung der Strahlform anpassen"
+
+# BFA - machine translated, please review
+msgid "Quad Bridge"
+msgstr "Quad-Brücke"
+
+# BFA - machine translated, please review
+msgid "Connect two chains of selected edges with a different number of segments using quads"
+msgstr "Verbindet zwei Ketten ausgewählter Kanten mit unterschiedlicher Segmentanzahl mit Vierecken"
+
+# BFA - machine translated, please review
+msgid "Edge flow used when bridging one edge to two edges"
+msgstr "Kantenfluss beim Verbinden einer Kante mit zwei Kanten"
+
+# BFA - machine translated, please review
+msgid "Diamond"
+msgstr "Raute"
+
+# BFA - machine translated, please review
+msgid "Create a diamond in the middle of the bridge"
+msgstr "Erzeugt eine Raute in der Mitte der Brücke"
+
+# BFA - machine translated, please review
+msgid "Left Flow"
+msgstr "Fluss nach links"
+
+# BFA - machine translated, please review
+msgid "Edge flow leaning to the left"
+msgstr "Kantenfluss, der sich nach links neigt"
+
+# BFA - machine translated, please review
+msgid "Right Flow"
+msgstr "Fluss nach rechts"
+
+# BFA - machine translated, please review
+msgid "Edge flow leaning to the right"
+msgstr "Kantenfluss, der sich nach rechts neigt"
+
+# BFA - machine translated, please review
+msgid "Gap Method"
+msgstr "Lückenmethode"
+
+# BFA - machine translated, please review
+msgid "How the difference of two edges between the chains is resolved"
+msgstr "Wie der Unterschied von zwei Kanten zwischen den Ketten aufgelöst wird"
+
+# BFA - machine translated, please review
+msgid "Outer Loop"
+msgstr "Äußerer Loop"
+
+# BFA - machine translated, please review
+msgid "Add an extra loop between the two chains"
+msgstr "Fügt einen zusätzlichen Loop zwischen den beiden Ketten ein"
+
+# BFA - machine translated, please review
+msgid "Inner Loop"
+msgstr "Innerer Loop"
+
+# BFA - machine translated, please review
+msgid "Keep the sides straight and resolve the difference in the middle"
+msgstr "Hält die Seiten gerade und löst den Unterschied in der Mitte auf"

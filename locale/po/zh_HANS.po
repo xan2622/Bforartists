@@ -182389,3 +182389,59 @@ msgstr "用于计算范围的帧"
 # BFA - machine translated, please review
 msgid "Bake Clipping"
 msgstr "烘焙裁剪"
+
+# BFA - machine translated, please review
+msgid "Quad Bridge"
+msgstr "四边形桥接"
+
+# BFA - machine translated, please review
+msgid "Connect two chains of selected edges with a different number of segments using quads"
+msgstr "用四边形连接两条段数不同的所选边链"
+
+# BFA - machine translated, please review
+msgid "Edge flow used when bridging one edge to two edges"
+msgstr "将一条边连接到两条边时使用的边流向"
+
+# BFA - machine translated, please review
+msgid "Create a diamond in the middle of the bridge"
+msgstr "在桥接中间创建菱形"
+
+# BFA - machine translated, please review
+msgid "Left Flow"
+msgstr "向左流向"
+
+# BFA - machine translated, please review
+msgid "Edge flow leaning to the left"
+msgstr "向左倾斜的边流向"
+
+# BFA - machine translated, please review
+msgid "Right Flow"
+msgstr "向右流向"
+
+# BFA - machine translated, please review
+msgid "Edge flow leaning to the right"
+msgstr "向右倾斜的边流向"
+
+# BFA - machine translated, please review
+msgid "Gap Method"
+msgstr "差异处理方式"
+
+# BFA - machine translated, please review
+msgid "How the difference of two edges between the chains is resolved"
+msgstr "如何处理两条链之间相差两条边的情况"
+
+# BFA - machine translated, please review
+msgid "Outer Loop"
+msgstr "外侧环"
+
+# BFA - machine translated, please review
+msgid "Add an extra loop between the two chains"
+msgstr "在两条链之间添加一圈额外的环"
+
+# BFA - machine translated, please review
+msgid "Inner Loop"
+msgstr "内侧环"
+
+# BFA - machine translated, please review
+msgid "Keep the sides straight and resolve the difference in the middle"
+msgstr "保持两侧笔直，在中间处理差异"

@@ -103201,3 +103201,59 @@ msgstr "Кадри, за якими обчислюється діапазон"
 # BFA - machine translated, please review
 msgid "Bake Clipping"
 msgstr "Запікання відсікання"
+
+# BFA - machine translated, please review
+msgid "Quad Bridge"
+msgstr "Квад-міст"
+
+# BFA - machine translated, please review
+msgid "Connect two chains of selected edges with a different number of segments using quads"
+msgstr "З'єднує два ланцюжки вибраних ребер з різною кількістю сегментів за допомогою чотирикутників"
+
+# BFA - machine translated, please review
+msgid "Edge flow used when bridging one edge to two edges"
+msgstr "Потік ребер під час з'єднання одного ребра з двома ребрами"
+
+# BFA - machine translated, please review
+msgid "Create a diamond in the middle of the bridge"
+msgstr "Створює ромб у середині мосту"
+
+# BFA - machine translated, please review
+msgid "Left Flow"
+msgstr "Потік ліворуч"
+
+# BFA - machine translated, please review
+msgid "Edge flow leaning to the left"
+msgstr "Потік ребер із нахилом ліворуч"
+
+# BFA - machine translated, please review
+msgid "Right Flow"
+msgstr "Потік праворуч"
+
+# BFA - machine translated, please review
+msgid "Edge flow leaning to the right"
+msgstr "Потік ребер із нахилом праворуч"
+
+# BFA - machine translated, please review
+msgid "Gap Method"
+msgstr "Метод різниці"
+
+# BFA - machine translated, please review
+msgid "How the difference of two edges between the chains is resolved"
+msgstr "Як розв'язується різниця у два ребра між ланцюжками"
+
+# BFA - machine translated, please review
+msgid "Outer Loop"
+msgstr "Зовнішня петля"
+
+# BFA - machine translated, please review
+msgid "Add an extra loop between the two chains"
+msgstr "Додає додаткову петлю між двома ланцюжками"
+
+# BFA - machine translated, please review
+msgid "Inner Loop"
+msgstr "Внутрішня петля"
+
+# BFA - machine translated, please review
+msgid "Keep the sides straight and resolve the difference in the middle"
+msgstr "Зберігає сторони прямими та розв'язує різницю в середині"

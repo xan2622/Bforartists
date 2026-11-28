@@ -180091,3 +180091,59 @@ msgstr "Các khung hình dùng để tính phạm vi"
 # BFA - machine translated, please review
 msgid "Bake Clipping"
 msgstr "Nướng cắt xén"
+
+# BFA - machine translated, please review
+msgid "Quad Bridge"
+msgstr "Cầu nối quad"
+
+# BFA - machine translated, please review
+msgid "Connect two chains of selected edges with a different number of segments using quads"
+msgstr "Nối hai chuỗi cạnh được chọn có số đoạn khác nhau bằng các quad"
+
+# BFA - machine translated, please review
+msgid "Edge flow used when bridging one edge to two edges"
+msgstr "Dòng chảy cạnh dùng khi nối một cạnh với hai cạnh"
+
+# BFA - machine translated, please review
+msgid "Create a diamond in the middle of the bridge"
+msgstr "Tạo hình thoi ở giữa cầu nối"
+
+# BFA - machine translated, please review
+msgid "Left Flow"
+msgstr "Dòng chảy trái"
+
+# BFA - machine translated, please review
+msgid "Edge flow leaning to the left"
+msgstr "Dòng chảy cạnh nghiêng về bên trái"
+
+# BFA - machine translated, please review
+msgid "Right Flow"
+msgstr "Dòng chảy phải"
+
+# BFA - machine translated, please review
+msgid "Edge flow leaning to the right"
+msgstr "Dòng chảy cạnh nghiêng về bên phải"
+
+# BFA - machine translated, please review
+msgid "Gap Method"
+msgstr "Phương pháp xử lý chênh lệch"
+
+# BFA - machine translated, please review
+msgid "How the difference of two edges between the chains is resolved"
+msgstr "Cách xử lý chênh lệch hai cạnh giữa các chuỗi"
+
+# BFA - machine translated, please review
+msgid "Outer Loop"
+msgstr "Vòng ngoài"
+
+# BFA - machine translated, please review
+msgid "Add an extra loop between the two chains"
+msgstr "Thêm một vòng phụ giữa hai chuỗi"
+
+# BFA - machine translated, please review
+msgid "Inner Loop"
+msgstr "Vòng trong"
+
+# BFA - machine translated, please review
+msgid "Keep the sides straight and resolve the difference in the middle"
+msgstr "Giữ thẳng hai bên và xử lý chênh lệch ở giữa"

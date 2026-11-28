@@ -166919,3 +166919,59 @@ msgstr "범위를 계산하는 데 사용하는 프레임"
 # BFA - machine translated, please review
 msgid "Bake Clipping"
 msgstr "클리핑 베이크"
+
+# BFA - machine translated, please review
+msgid "Quad Bridge"
+msgstr "쿼드 브리지"
+
+# BFA - machine translated, please review
+msgid "Connect two chains of selected edges with a different number of segments using quads"
+msgstr "세그먼트 수가 다른 선택된 두 모서리 체인을 사각형으로 연결합니다"
+
+# BFA - machine translated, please review
+msgid "Edge flow used when bridging one edge to two edges"
+msgstr "모서리 하나를 모서리 둘에 연결할 때 사용하는 모서리 흐름"
+
+# BFA - machine translated, please review
+msgid "Create a diamond in the middle of the bridge"
+msgstr "브리지 중앙에 다이아몬드를 만듭니다"
+
+# BFA - machine translated, please review
+msgid "Left Flow"
+msgstr "왼쪽 플로우"
+
+# BFA - machine translated, please review
+msgid "Edge flow leaning to the left"
+msgstr "왼쪽으로 기운 모서리 흐름"
+
+# BFA - machine translated, please review
+msgid "Right Flow"
+msgstr "오른쪽 플로우"
+
+# BFA - machine translated, please review
+msgid "Edge flow leaning to the right"
+msgstr "오른쪽으로 기운 모서리 흐름"
+
+# BFA - machine translated, please review
+msgid "Gap Method"
+msgstr "차이 해결 방식"
+
+# BFA - machine translated, please review
+msgid "How the difference of two edges between the chains is resolved"
+msgstr "체인 사이의 두 모서리 차이를 해결하는 방법"
+
+# BFA - machine translated, please review
+msgid "Outer Loop"
+msgstr "바깥쪽 루프"
+
+# BFA - machine translated, please review
+msgid "Add an extra loop between the two chains"
+msgstr "두 체인 사이에 루프를 하나 더 추가합니다"
+
+# BFA - machine translated, please review
+msgid "Inner Loop"
+msgstr "안쪽 루프"
+
+# BFA - machine translated, please review
+msgid "Keep the sides straight and resolve the difference in the middle"
+msgstr "양옆을 곧게 유지하고 중앙에서 차이를 해결합니다"

@@ -136359,3 +136359,59 @@ msgstr "Aralığın hesaplandığı kareler"
 # BFA - machine translated, please review
 msgid "Bake Clipping"
 msgstr "Kırpmayı pişmek"
+
+# BFA - machine translated, please review
+msgid "Quad Bridge"
+msgstr "Dörtgen Köprü"
+
+# BFA - machine translated, please review
+msgid "Connect two chains of selected edges with a different number of segments using quads"
+msgstr "Farklı segment sayısına sahip iki seçili kenar zincirini dörtgenlerle birleştirir"
+
+# BFA - machine translated, please review
+msgid "Edge flow used when bridging one edge to two edges"
+msgstr "Bir kenarı iki kenara bağlarken kullanılan kenar akışı"
+
+# BFA - machine translated, please review
+msgid "Create a diamond in the middle of the bridge"
+msgstr "Köprünün ortasında bir eşkenar dörtgen oluşturur"
+
+# BFA - machine translated, please review
+msgid "Left Flow"
+msgstr "Sola Akış"
+
+# BFA - machine translated, please review
+msgid "Edge flow leaning to the left"
+msgstr "Sola eğilen kenar akışı"
+
+# BFA - machine translated, please review
+msgid "Right Flow"
+msgstr "Sağa Akış"
+
+# BFA - machine translated, please review
+msgid "Edge flow leaning to the right"
+msgstr "Sağa eğilen kenar akışı"
+
+# BFA - machine translated, please review
+msgid "Gap Method"
+msgstr "Fark Yöntemi"
+
+# BFA - machine translated, please review
+msgid "How the difference of two edges between the chains is resolved"
+msgstr "Zincirler arasındaki iki kenarlık farkın nasıl çözüleceği"
+
+# BFA - machine translated, please review
+msgid "Outer Loop"
+msgstr "Dış Döngü"
+
+# BFA - machine translated, please review
+msgid "Add an extra loop between the two chains"
+msgstr "İki zincir arasına fazladan bir döngü ekler"
+
+# BFA - machine translated, please review
+msgid "Inner Loop"
+msgstr "İç Döngü"
+
+# BFA - machine translated, please review
+msgid "Keep the sides straight and resolve the difference in the middle"
+msgstr "Kenarları düz tutar ve farkı ortada çözer"

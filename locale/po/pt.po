@@ -153134,3 +153134,59 @@ msgstr "Gerar e gravar recorte"
 msgctxt "Operator"
 msgid "Adjust Beam Shape Blend"
 msgstr "Ajustar mistura do formato de feixe"
+
+# BFA - machine translated, please review
+msgid "Quad Bridge"
+msgstr "Ponte de quads"
+
+# BFA - machine translated, please review
+msgid "Connect two chains of selected edges with a different number of segments using quads"
+msgstr "Liga duas cadeias de arestas selecionadas com um número diferente de segmentos usando quadriláteros"
+
+# BFA - machine translated, please review
+msgid "Edge flow used when bridging one edge to two edges"
+msgstr "Fluxo de arestas usado ao ligar uma aresta a duas arestas"
+
+# BFA - machine translated, please review
+msgid "Create a diamond in the middle of the bridge"
+msgstr "Cria um losango no meio da ponte"
+
+# BFA - machine translated, please review
+msgid "Left Flow"
+msgstr "Fluxo à esquerda"
+
+# BFA - machine translated, please review
+msgid "Edge flow leaning to the left"
+msgstr "Fluxo de arestas inclinado para a esquerda"
+
+# BFA - machine translated, please review
+msgid "Right Flow"
+msgstr "Fluxo à direita"
+
+# BFA - machine translated, please review
+msgid "Edge flow leaning to the right"
+msgstr "Fluxo de arestas inclinado para a direita"
+
+# BFA - machine translated, please review
+msgid "Gap Method"
+msgstr "Método de diferença"
+
+# BFA - machine translated, please review
+msgid "How the difference of two edges between the chains is resolved"
+msgstr "Como a diferença de duas arestas entre as cadeias é resolvida"
+
+# BFA - machine translated, please review
+msgid "Outer Loop"
+msgstr "Loop exterior"
+
+# BFA - machine translated, please review
+msgid "Add an extra loop between the two chains"
+msgstr "Adiciona um loop extra entre as duas cadeias"
+
+# BFA - machine translated, please review
+msgid "Inner Loop"
+msgstr "Loop interior"
+
+# BFA - machine translated, please review
+msgid "Keep the sides straight and resolve the difference in the middle"
+msgstr "Mantém os lados retos e resolve a diferença no meio"
